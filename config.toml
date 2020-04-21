@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "TuXingZhi"
+title = "Tu XingZhi"
 theme = "hugo-ivy"
 googleAnalytics = ""
 disqusShortname = ""
